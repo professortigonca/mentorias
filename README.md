@@ -1,2 +1,2 @@
-# mentorias
-Projetos de criados pelos alunos (curso de graduação em ciência da computação e curso técnico em informática)  sob minha mentoria durante as aulas e relalização de projetos. 
+# MENTORIAS
+Protótipos de software criados por alunos do curso de graduação em ciência da computação, como também alunos do curso técnico em informática, nas disciplinas de Engenharia de Software sob minha mentoria durante aulas e relalização de projetos. 
